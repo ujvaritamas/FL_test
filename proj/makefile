@@ -4,4 +4,4 @@ run_pytest:
 	pytest -v
 
 run_test:
-	pytest
+	pytest  -s -v
